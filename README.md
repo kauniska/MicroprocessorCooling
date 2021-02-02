@@ -5,9 +5,9 @@ Anni Kauniskangas
 2020
 
 Files included(3)
-This README file
-classes.py
-script.py
+- This README file
+- classes.py
+- script.py
 
 
 Instructions:
