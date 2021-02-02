@@ -9,6 +9,7 @@ Files included(3)
 - classes.py
 - script.py
 
+There are also some ready-made heatmap plots that demonstrate the results of the simulation.
 
 Instructions:
 
