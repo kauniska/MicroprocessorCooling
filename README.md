@@ -1,5 +1,5 @@
 # MicroprocessorCooling
-This is a simulation of heat steady-state heat transport in a 2D model of a microprocessor, ceramic casing and an aluminium heatsink.
+This code solves for the steady-state heat transport in a 2D model of a microprocessor, ceramic casing and an aluminium heatsink. It uses either Jacobi or Gauss-Seidel relaxation method on a finite difference grid. It can be run with the microprocessor only, microprocessor and casing, or microprocessor with casing and heatsink. Options for either forced or natural convection. Result can be plotted as a temperature heatmap over the grid.
 
 Anni Kauniskangas
 2020
